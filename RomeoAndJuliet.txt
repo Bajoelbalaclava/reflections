@@ -15,7 +15,7 @@ Release Date: November, 1997  [Etext #1112]
 
 Language: English
 
-This is just a modification.
+This is now a modification done from Github.
 
 
 *** START OF THIS PROJECT GUTENBERG EBOOK ROMEO AND JULIET ***
